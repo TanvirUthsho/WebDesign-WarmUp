@@ -18,7 +18,7 @@ body{
    
     width:"97%";
     float : left;
-    margin-top: -2px;
+    margin-top: 50px;
     padding-left: 7px;
 
   }
@@ -26,7 +26,7 @@ body{
    
     width:"97%";
     float : right;
-    margin-top: -2px;
+    margin-top: 50px;
     margin-left: 40px;
   }
   .li{
@@ -61,10 +61,10 @@ body{
         padding: 4em; margin: 60px ; 
      }
      .download{
-        margin-top: 0px;
+        margin-top: -70px;
         margin-left: 1000px;
         background-color:#f3f702;
-        width: 160px;
+        width: 190px;
         border-radius: 20px;
         padding: 1px;
         text-align: center;
