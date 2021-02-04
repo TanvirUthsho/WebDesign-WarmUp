@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500&family=Raleway:wght@300;500&display=swap');
+*{
+  margin:0;
+}
+body {
+  margin: 0;
+  background-image: linear-gradient(to bottom right,#c6e249,#c6398f);
+  height: 100vh;
+}
+.img{
+  position: fixed;
+  height: 800px;
+  margin-top: 0px;
+  display: inline;
+  float: left;
+}
+.container{
+  background-color: rgba(253, 242, 233 , 0.3);
+  height:570px;
+  width: 920px;
+  margin-right: 37px;
+  margin-top: 79px;
+  border-radius: 12px;
+   padding: 20px;
+   float: right;
+   text-align: center;
+   font-family: 'Fraunces', serif;
+   backdrop-filter: blur(10px);
+}
+.Chanel{
+  margin-left: -700px;
+}
+
+.left{
+  height:69px;
+  width: 400px;
+  margin: 30px;
+  text-align: left;
+  float: left;
+  font-family: 'Raleway', sans-serif;
+
+}
+.right{
+  float: right;
+text-align: left;
+margin: 30PX;
+height:69px;
+width: 400px;
+font-family: 'Raleway', sans-serif;
+}
+.btn-creat{
+  cursor: pointer;
+  background: black;
+  color: white;
+  padding: 12px 45px;
+  border: 0;
+  margin: 60px;
+  
+  border-radius: 20px;
+  outline: none;
+  font-size: 18px;
+  font-weight: 700px;
+  letter-spacing: 2px;
+}
+.login-form {
+  padding-top: 40px;
+  }
+.login-form .form-group{
+  margin-bottom: 20px;
+}
+.login-form label{
+  display: block;
+}
+.login-form .form-control{
+  background: transparent;
+  outline: none;
+  border: none;
+  border-bottom: 2px solid#000;
+ 
+  width: 100%;
+  height: 36px;
+}
+.btn-sign{
+  cursor: pointer;
+  background: black;
+  color: white;
+  padding: 12px 45px;
+  border: 0;
+  margin: 4px;
+ 
+  
+  border-radius: 20px;
+  outline: none;
+  font-size: 18px;
+  font-weight: 700px;
+  letter-spacing: 2px;
+}
+h5{
+  margin-left: 9px;
+}
+/* h4{
+  font-family: 'Raleway', sans-serif ;
+  font-size: Light 300;
+} */
+/* .logo{
+  width: 100%;
+  height: auto;
+  margin: 75px 50px 30px 75px; 
+} */
